@@ -1,0 +1,11 @@
+Package: msigdf
+Type: Package
+Title: MSigDB in a data frame
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Molecular Signatures Database (MSigDB) in a data frame.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
