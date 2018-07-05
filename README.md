@@ -2,7 +2,7 @@
 
 The [Molecular Signatures Database (MSigDB)](http://www.broad.mit.edu/gsea/msigdb/index.jsp) in a data frame. 
 
-Current version: [v5.2](http://www.broadinstitute.org/cancer/software/gsea/wiki/index.php/MSigDB_v5.2_Release_Notes) (October 2016).
+Current version: [v5.2](http://www.broadinstitute.org/cancer/software/gsea/wiki/index.php/MSigDB_v5.2_Release_Notes) (October 2016). **For a more up-to-date version, see ToledoEM's fork at [ToledoEM/msigdf](https://github.com/ToledoEM/msigdf).**
 
 ## Installation
 
